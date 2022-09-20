@@ -11,15 +11,15 @@
 
 ## Team Project - Checkpoint #1
   - Working together as a team:
-    - Acquire domain knowledge for your project topic
-      - MySQL, Microsoft Azure, Python with Django, HTML, CSS, JavaScript  
+    - Acquire domain knowledge for your project topic (Lecture Sep15 slide 27)
+      - Definition?
     - Create the requirements docuement
       - Details of the mini-world
         - Items
         - Customers
         - Merchants
-        - Etc
-      - Entities and their properties, relationshios, and constraints
+        - Etc.
+      - Entities and their properties, relationships, and constraints (Lecture Sep15 slides 4, 26)
         - Items [Quanitity, Price, Rating]
         - Customers [Location, Balance, ] 
       - Generate a conceptual schema (Lecture Sep15 slide 25)
