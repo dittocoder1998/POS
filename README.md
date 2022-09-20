@@ -1,12 +1,12 @@
 # Point Of Sale Web Application
 
 # Technology Stack
-  -DBMS:
-    -MySQL
-  -Programming Languages:
-    -Python using Django Web Framework
-  -Host:
-    -Microsoft Azure? 
+  - DBMS:
+    - MySQL
+  - Programming Languages:
+    - Python using Django Web Framework
+  - Host:
+    - Microsoft Azure? 
 
 # Team Project - Checkpoint #1
   - Working together as a team:
