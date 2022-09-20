@@ -1,6 +1,6 @@
 # Point Of Sale Web Application
 
-## Technology Stack
+## Technology Stack/Domain Knowledge
   - DBMS:
     - MySQL
   - Programming Languages:
