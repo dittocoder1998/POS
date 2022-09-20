@@ -18,10 +18,11 @@
         - Items
         - Customers
         - Merchants
-        -    
+        - Etc
       - Entities and their properties, relationshios, and constraints
-        -  
+        - Items [Quanitity, Price, Rating]
+        - Customers [Location, Balance, ] 
       - Generate a conceptual schema
-        - Diagram   
+        - Make Diagram  
   - Submission due on Tuesday, October 4
     - By email to uramamur@bcm.edu
