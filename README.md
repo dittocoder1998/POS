@@ -5,7 +5,7 @@
     - MySQL
   - Programming Languages:
     - Python using Django Web Framework
-    - HTML, CSS, JS
+    - HTML, CSS, JavaScript
   - Host:
     - Microsoft Azure 
 
