@@ -1,6 +1,6 @@
-## Point Of Sale Web Application
+# Point Of Sale Web Application
 
-# Technology Stack
+## Technology Stack
   - DBMS:
     - MySQL
   - Programming Languages:
@@ -8,7 +8,7 @@
   - Host:
     - Microsoft Azure 
 
-# Team Project - Checkpoint #1
+## Team Project - Checkpoint #1
   - Working together as a team:
     - Acquire domain knowledge for your project topic
     - Create the requirements docuement
