@@ -1,4 +1,4 @@
-# Point Of Sale Web Application
+# Point Of Sale - Web Application + Database
 
 ## Point of Sale System: 
 
