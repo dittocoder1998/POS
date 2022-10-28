@@ -7,6 +7,12 @@ https://azure.microsoft.com/en-us/blog/using-django-python-and-mysql-on-windows-
 Quickstart Django to Azure Guide:
 https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-cli%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli
 
+App Service Help:
+https://learn.microsoft.com/en-us/azure/app-service/
+
+SQL Help:
+https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql
+
 Downloads:
 Python
 Django
