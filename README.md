@@ -16,4 +16,4 @@ ability to count individual items. (Team 9, Team 1)
     - Python using Django Web Framework
     - HTML, CSS, JavaScript
   - Host:
-    - Microsoft Azure?
+    - Microsoft Azure
