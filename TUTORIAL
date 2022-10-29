@@ -1,0 +1,24 @@
+1) Type these install commands in command prompt:
+
+pip install django
+pip install djangorestframework
+pip install djang-cors-headers
+
+2) Create a branch on github to download server files (download the github files to your local computer)
+  - you can edit them in VS code
+
+3) To access the LIVE database server, get on MySQL workbench
+    - Cick the '+' icon next to MySQL Connections
+    - name the connection name anything you want to
+    - Connection method = Stanard(TCP/IP)
+    - hostname=pos-mysql-server.mysql.database.azure.com
+    - username=username 
+    - password=Password#1
+    - go to the SSL tab and make the "Use SSL" mode "Require"
+    - download "DigiCertGlobalRootCA.crt.pem" from this github repo
+    - set the file location of the file you just downloaded to be the "SSL CA File" path.
+    - test connection (this should work, if not, troubleshoot)
+    - You should be able access the server now.
+    
+    
+   
