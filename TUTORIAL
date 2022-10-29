@@ -10,7 +10,7 @@ pip install pymysql
 
 3) To access the LIVE database server, get on MySQL workbench
     - Cick the '+' icon next to MySQL Connections
-    - name the connection name anything you want to
+    - name the connection name "pos-mysql-server"
     - Connection method = Stanard(TCP/IP)
     - hostname=pos-mysql-server.mysql.database.azure.com
     - username=username 
@@ -21,5 +21,17 @@ pip install pymysql
     - test connection (this should work, if not, troubleshoot)
     - You should be able access the server now.
     
-    
+4) In order to check what you have updated in the Database server:
+  - go to the file location ...\Django_API>
+  - open cmd
+  - "python manage.py makemigrations POS"
+  - this will create a folder with a file called "0001_initial.py" with the changed contents within it
+  - in order to push your changed back onto the server/database do the following command:
+    - ..../Django_API>python manage.py migrate POS
+  
+5) To run the application (website) locally, use the following command:
+  - "python manage.py runserver"
+  - copy paste the part that looks something like http://127.0.0.1:8000/ into your browswer. The numbers will be different.
+  
+  
    
