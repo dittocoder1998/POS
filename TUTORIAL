@@ -2,8 +2,9 @@
 
 pip install django
 pip install djangorestframework
-pip install djang-cors-headers
+pip install django-cors-headers
 pip install pymysql
+pip install django-bootstrap-v5
 
 2) Create a branch on github to download server files (download the github files to your local computer)
   - you can edit them in VS code
